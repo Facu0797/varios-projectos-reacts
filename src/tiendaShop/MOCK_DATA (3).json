@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "sistema": "Android",
+        "marca": "Icemobile",
+        "modelo": "Icemobile Crystal",
+        "precio": 1162,
+        "imagen": "http://dummyimage.com/115x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 2,
+        "sistema": "Android",
+        "marca": "alcatel",
+        "modelo": "alcatel Pixi 3 (7)",
+        "precio": 183,
+        "imagen": "http://dummyimage.com/246x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 3,
+        "sistema": "Android",
+        "marca": "Spice",
+        "modelo": "Spice Mi-355 Stellar Craze",
+        "precio": 404,
+        "imagen": "http://dummyimage.com/203x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 4,
+        "sistema": "BlackBerry",
+        "marca": "BlackBerry",
+        "modelo": "BlackBerry Q5",
+        "precio": 934,
+        "imagen": "http://dummyimage.com/122x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 5,
+        "sistema": "Android",
+        "marca": "Panasonic",
+        "modelo": "Panasonic Eluga Mark",
+        "precio": 863,
+        "imagen": "http://dummyimage.com/229x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 6,
+        "sistema": "Feature phone",
+        "marca": "NEC",
+        "modelo": "NEC N820",
+        "precio": 772,
+        "imagen": "http://dummyimage.com/165x100.png/dddddd/000000"
+    },
+    {
+        "id": 7,
+        "sistema": "Feature phone",
+        "marca": "BenQ-Siemens",
+        "modelo": "BenQ-Siemens E61",
+        "precio": 319,
+        "imagen": "http://dummyimage.com/112x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 8,
+        "sistema": "Microsoft",
+        "marca": "BenQ",
+        "modelo": "BenQ E72",
+        "precio": 472,
+        "imagen": "http://dummyimage.com/199x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 9,
+        "sistema": "Feature phone",
+        "marca": "LG",
+        "modelo": "LG KM380",
+        "precio": 1158,
+        "imagen": "http://dummyimage.com/144x100.png/dddddd/000000"
+    },
+    {
+        "id": 10,
+        "sistema": "Android",
+        "marca": "alcatel",
+        "modelo": "alcatel Pixi 3 (5.5) LTE",
+        "precio": 87,
+        "imagen": "http://dummyimage.com/146x100.png/dddddd/000000"
+    },
+    {
+        "id": 11,
+        "sistema": "Android",
+        "marca": "BLU",
+        "modelo": "BLU Advance L4",
+        "precio": 80,
+        "imagen": "http://dummyimage.com/125x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 12,
+        "sistema": "Android",
+        "marca": "vivo",
+        "modelo": "vivo V11 (V11 Pro)",
+        "precio": 996,
+        "imagen": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 13,
+        "sistema": "Android",
+        "marca": "Lava",
+        "modelo": "Lava Iris 410",
+        "precio": 491,
+        "imagen": "http://dummyimage.com/211x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 14,
+        "sistema": "Feature phone",
+        "marca": "Philips",
+        "modelo": "Philips 892",
+        "precio": 136,
+        "imagen": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 15,
+        "sistema": "Feature phone",
+        "marca": "Sendo",
+        "modelo": "Sendo J530",
+        "precio": 1149,
+        "imagen": "http://dummyimage.com/227x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 16,
+        "sistema": "Feature phone",
+        "marca": "Panasonic",
+        "modelo": "Panasonic X300",
+        "precio": 1056,
+        "imagen": "http://dummyimage.com/246x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 17,
+        "sistema": "Android",
+        "marca": "verykool",
+        "modelo": "verykool Kolorpad LTE TL8010",
+        "precio": 433,
+        "imagen": "http://dummyimage.com/246x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 18,
+        "sistema": "Android",
+        "marca": "ZTE",
+        "modelo": "ZTE Blade Vec 3G",
+        "precio": 452,
+        "imagen": "http://dummyimage.com/228x100.png/dddddd/000000"
+    },
+    {
+        "id": 19,
+        "sistema": "Feature phone",
+        "marca": "Motorola",
+        "modelo": "Motorola C289",
+        "precio": 617,
+        "imagen": "http://dummyimage.com/108x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 20,
+        "sistema": "Feature phone",
+        "marca": "Pantech",
+        "modelo": "Pantech G670",
+        "precio": 646,
+        "imagen": "http://dummyimage.com/238x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 21,
+        "sistema": "Android",
+        "marca": "HTC",
+        "modelo": "HTC Desire 620G dual sim",
+        "precio": 137,
+        "imagen": "http://dummyimage.com/109x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 22,
+        "sistema": "Android",
+        "marca": "Posh",
+        "modelo": "Posh Pegasus Plus C351",
+        "precio": 654,
+        "imagen": "http://dummyimage.com/149x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 23,
+        "sistema": "Feature phone",
+        "marca": "Siemens",
+        "modelo": "Siemens CL55",
+        "precio": 808,
+        "imagen": "http://dummyimage.com/170x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 24,
+        "sistema": "BlackBerry",
+        "marca": "BlackBerry",
+        "modelo": "BlackBerry 6230",
+        "precio": 499,
+        "imagen": "http://dummyimage.com/154x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 25,
+        "sistema": "Android",
+        "marca": "HTC",
+        "modelo": "HTC Legend",
+        "precio": 35,
+        "imagen": "http://dummyimage.com/102x100.png/5fa2dd/ffffff"
+    }
+]
